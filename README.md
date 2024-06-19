@@ -3,7 +3,7 @@
 This project provides an analysis of Airbnb listing data to understand pricing dynamics and listing distributions across different zip codes and by the number of bedrooms. The analysis is visualized through a dashboard that help uncover trends and insights about the average prices, listing counts, and revenue generation over time.
 
 ### **Dashboard**
-The dashboard provide a comprehensive overview of the Airbnb data across various metrics:
+The dashboard provide a comprehensive overview of the Airbnb data across various metrics.
 
 Average Price Per Bedroom: This visualization shows the average price per night for listings categorized by the number of bedrooms.
 
