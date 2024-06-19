@@ -40,6 +40,7 @@ Data Source Link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listin
 
 ### Tools Used
 Tableau: Used for creating interactive and dynamic visualizations to analyze the data.
+
 Python: Scripts for data cleaning and preparation.
 
 ### How to Use
