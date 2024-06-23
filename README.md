@@ -46,7 +46,7 @@ Tableau: Used for creating interactive and dynamic visualizations to analyze the
 Python: Scripts for data cleaning and preparation.
 
 ### How to Use
-To explore the dashboards, download the Tableau files from this repository and open them using Tableau Desktop. You can interact with the visual elements to drill down into specific metrics or view trends over different time periods.
+For a detailed examination and interactive experience with the dashboard, please utilize the live link provided above.
 
 ### Conclusion
 This dashboard provides valuable insights into Airbnb's pricing strategies and market dynamics, useful for hosts to optimize their pricing and for renters to find the best deals. The analysis also offers a basis for further studies into market trends and economic factors affecting short-term rental prices.
